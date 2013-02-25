@@ -1,0 +1,1 @@
+/*01d4240e50abb4689a70f77154a889a4efc1bfe3*/Ext.define("merchant.Globals",{singleton:true,config:{smpServerUrl:"http://192.168.1.106:3010",smpApiRoot:true,smpUser:"moshe",smpPassword:"blat"},constructor:function(a){this.initConfig(a);this.callParent([a]);this.setSmpApiRoot(this.getSmpServerUrl()+"/api/v1")}});

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.appforma.smp"
+        version   = "1.0.0">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>SMP Merchant</name>
+
+    <description>
+        Appforma's merchant app
+    </description>
+
+    <author href="www.appforma.com" email="ishay@appforma.com">
+        Ishay 
+    </author>
+
+
+</widget>
+
+<preference name="phonegap-version" value="2.2.0" />
+<preference name="orientation" value="portrait" />
+<preference name="target-device" value="handset" />
